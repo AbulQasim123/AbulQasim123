@@ -33,9 +33,10 @@ I’ve successfully delivered **15+ projects**, from food delivery platforms to 
 | [The Aladdin](#) | Laravel + MySQL | Food delivery platform with order tracking and admin panel |
 | [RaahGhar](#) | Laravel + MySQL | Homestay travel portal with recommendations and user auth |
 | [Book Technician](#) | Laravel + MySQL | On-demand service booking platform |
-| [NewsBlog](#) | Node.js + MongoDB + EJS | Dynamic tech news platform with admin panel |
+| [NewsBlog](#) | Node.js + Express + MongoDB + EJS | Dynamic tech news platform with admin panel |
 | [Way2Cure](#) | Laravel + MySQL | Healthcare app for doctor appointments and management |
-| [File Uploader](#) | Node.js + MongoDB | Multi-file upload with validation and admin UI |
+| [File Uploader](#) | Node.js + Express + MongoDB | Multi-file upload with validation and admin UI |
+| [Chat App](#) | Node.js + Express + MongoDB | Working |
 
 🧾 View full list of projects on [my portfolio](http://13.53.174.4/aboutme)
 
