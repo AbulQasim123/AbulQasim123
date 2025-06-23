@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Abul Qasim Ansari
 
-🚀 Full-Stack Developer | PHP Laravel & Node.js | API Specialist  
+🚀 Full-Stack Developer | PHP Laravel & Node.js | API
 📍 Bhiwandi, Thane, Maharashtra, India  
 📧 abulqasimansari842@gmail.com  
 🌐 [Portfolio](http://13.53.174.4/aboutme) | [GitHub](https://github.com/AbulQasim123) | [LinkedIn](https://linkedin.com/in/abulqasim-ansari-105b9722b)
@@ -30,12 +30,12 @@ I’ve successfully delivered **15+ projects**, from food delivery platforms to 
 
 | Project | Stack | Description |
 |--------|-------|-------------|
-| [The Aladdin](#) | Laravel + MySQL | Food delivery platform with order tracking and admin panel |
-| [RaahGhar](#) | Laravel + MySQL | Homestay travel portal with recommendations and user auth |
-| [Book Technician](#) | Laravel + MySQL | On-demand service booking platform |
-| [NewsBlog](#) | Node.js + Express + MongoDB + EJS | Dynamic tech news platform with admin panel |
-| [Way2Cure](#) | Laravel + MySQL | Healthcare app for doctor appointments and management |
-| [File Uploader](#) | Node.js + Express + MongoDB | Multi-file upload with validation and admin UI |
+| [The Aladdin](https://thealaddin.in/) | Laravel + MySQL | Food delivery platform with order tracking and admin panel |
+| [RaahGhar](https://www.raahghar.com/) | Laravel + MySQL | Homestay travel portal with recommendations and user auth |
+| [Book Technician](https://booktechnician.in/) | Laravel + MySQL | On-demand service booking platform |
+| [NewsBlog](http://13.53.174.4/) | Node.js + Express + MongoDB + EJS | Dynamic tech news platform with admin panel |
+| [Way2Cure](https://www.way2cure.com/) | Laravel + MySQL | Healthcare app for doctor appointments and management |
+| [File Uploader](http://34.47.128.201/node) | Node.js + Express + MongoDB | Multi-file upload with validation and admin UI |
 | [Chat App](#) | Node.js + Express + MongoDB | Working |
 
 🧾 View full list of projects on [my portfolio](http://13.53.174.4/aboutme)
