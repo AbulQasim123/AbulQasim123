@@ -40,6 +40,7 @@ I’ve successfully delivered **15+ projects**, from food delivery platforms to 
 | [Retro Packers Movers](https://www.retropackers.com/) | Laravel + MySQL | Relocation Service Platform |
 | [Anubhav Vacations](https://www.anubhavvacations.in/) | Laravel + MySQL |  Travel portal with recommendations |
 | [BoardingPassTours](https://www.boardingpasstours.com/) | Laravel + MySQL | Tour booking applicatio |
+| [Dial Service Center](https://dialservicecentre.com/) | Laravel + MySQL | Provide digital services stack |
 
 🧾 View full list of projects on [my portfolio](http://13.53.174.4/aboutme)
 
