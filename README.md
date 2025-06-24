@@ -21,7 +21,7 @@ I’ve successfully delivered **15+ projects**, from food delivery platforms to 
 **Frontend:** HTML5, CSS3, JavaScript, Tailwind CSS, Bootstrap, Blade, EJS  
 **Databases:** MySQL, MongoDB  
 **Authentication:** JWT, Firebase Auth, Passport, Sanctum  
-**Cloud & DevOps:** AWS, GCP, Hostinger  
+**Cloud & Deployment:** AWS, GCP, Hostinger  
 **Tools:** Git, GitHub, Postman, API Testing
 
 ---
@@ -31,12 +31,15 @@ I’ve successfully delivered **15+ projects**, from food delivery platforms to 
 | Project | Stack | Description |
 |--------|-------|-------------|
 | [The Aladdin](https://thealaddin.in/) | Laravel + MySQL | Food delivery platform with order tracking and admin panel |
-| [RaahGhar](https://www.raahghar.com/) | Laravel + MySQL | Homestay travel portal with recommendations and user auth |
+| [RaahGhar](https://www.raahghar.com/) | Laravel + MySQL | Homestay travel portal with recommendations |
 | [Book Technician](https://booktechnician.in/) | Laravel + MySQL | On-demand service booking platform |
 | [NewsBlog](http://13.53.174.4/) | Node.js + Express + MongoDB + EJS | Dynamic tech news platform with admin panel |
 | [Way2Cure](https://www.way2cure.com/) | Laravel + MySQL | Healthcare app for doctor appointments and management |
 | [File Uploader](http://34.47.128.201/node) | Node.js + Express + MongoDB | Multi-file upload with validation and admin UI |
-| [Chat App](http://13.204.64.158/) | Node.js + Express + MongoDB
+| [Chat App](http://13.204.64.158/) | Node.js + Express + MongoDB |
+| [Retro Packers Movers](https://www.retropackers.com/) | Laravel + MySQL | Relocation Service Platform |
+| [Anubhav Vacations](https://www.anubhavvacations.in/) | Laravel + MySQL |  Travel portal with recommendations |
+| [BoardingPassTours](https://www.boardingpasstours.com/) | Laravel + MySQL | Tour booking applicatio |
 
 🧾 View full list of projects on [my portfolio](http://13.53.174.4/aboutme)
 
