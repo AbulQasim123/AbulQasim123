@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Abul Qasim Ansari
 
-🚀 Full-Stack Developer | PHP Laravel & Node.js | API
+🚀 Software Developer | PHP Laravel & Node.js | API
 📍 Bhiwandi, Thane, Maharashtra, India  
 📧 abulqasimansari842@gmail.com  
 🌐 [Portfolio](http://13.53.174.4/aboutme) | [GitHub](https://github.com/AbulQasim123) | [LinkedIn](https://linkedin.com/in/abulqasim-ansari-105b9722b)
