@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Abul Qasim Ansari
+# 👋 Hi, I'm Abul Qasim Ansari
 
 🚀 Software Developer | PHP Laravel & Node.js | API
 📍 Bhiwandi, Thane, Maharashtra, India  
