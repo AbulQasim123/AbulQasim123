@@ -3,7 +3,7 @@
 🚀 Software Developer | PHP Laravel & Node.js | API
 📍 Bhiwandi, Thane, Maharashtra, India  
 📧 abulqasimansari842@gmail.com  
-🌐 [Portfolio](http://13.53.174.4/aboutme) | [GitHub](https://github.com/AbulQasim123) | [LinkedIn](https://linkedin.com/in/abulqasim-ansari-105b9722b)
+🌐 [Portfolio](http://65.2.31.3/aboutme) | [GitHub](https://github.com/AbulQasim123) | [LinkedIn](https://linkedin.com/in/abulqasim-ansari-105b9722b)
 
 ---
 
@@ -42,7 +42,7 @@ I’ve successfully delivered **10+ projects**, from food delivery platforms to 
 | [BoardingPassTours](https://www.boardingpasstours.com/) | Laravel + MySQL | Tour booking applicatio |
 | [Dial Service Center](https://dialservicecentre.com/) | Laravel + MySQL | Provide digital services stack |
 
-🧾 View full list of projects on [my portfolio](http://13.53.174.4/aboutme)
+🧾 View full list of projects on [my portfolio](http://65.2.31.3/aboutme)
 
 ---
 
