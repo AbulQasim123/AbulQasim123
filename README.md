@@ -3,7 +3,7 @@
 🚀 Software Developer | PHP Laravel & Node.js | API
 📍 Bhiwandi, Thane, Maharashtra, India  
 📧 abulqasimansari842@gmail.com  
-🌐 [Portfolio](http://13.127.155.55/aboutme) | [GitHub](https://github.com/AbulQasim123) | [LinkedIn](https://linkedin.com/in/abulqasim-ansari-105b9722b)
+🌐 [Portfolio](http://3.6.39.189/aboutme) | [GitHub](https://github.com/AbulQasim123) | [LinkedIn](https://linkedin.com/in/abulqasim-ansari-105b9722b)
 
 ---
 
@@ -30,9 +30,9 @@ I’ve successfully delivered **10+ projects**, from food delivery platforms to 
 
 | Project | Stack | Description |
 |--------|-------|-------------|
-| [Chat App](http://13.204.64.158/) | Node.js + Express + MongoDB | Chating Application
-| [NewsBlog](http://13.53.174.4/) | Node.js + Express + MongoDB + EJS | Dynamic tech news platform with admin panel |
-| [File Uploader](http://34.47.128.201/node) | Node.js + Express + MongoDB | Multi-file upload with validation and admin UI |
+| [Chat App](http://3.6.39.189/chat) | Node.js + Express + MongoDB | Chating Application
+| [NewsBlog](http://3.6.39.189/blog) | Node.js + Express + MongoDB + EJS | Dynamic tech news platform with admin panel |
+| [File Uploader](http://3.6.39.189/uploader) | Node.js + Express + MongoDB | Multi-file upload with validation and admin UI |
 | [The Aladdin](https://thealaddin.in/) | Laravel + MySQL | Food delivery platform with order tracking and admin panel |
 | [RaahGhar](https://www.raahghar.com/) | Laravel + MySQL | Homestay travel portal with recommendations |
 | [Book Technician](https://booktechnician.in/) | Laravel + MySQL | On-demand service booking platform |
@@ -42,7 +42,7 @@ I’ve successfully delivered **10+ projects**, from food delivery platforms to 
 | [BoardingPassTours](https://www.boardingpasstours.com/) | Laravel + MySQL | Tour booking applicatio |
 | [Dial Service Center](https://dialservicecentre.com/) | Laravel + MySQL | Provide digital services stack |
 
-🧾 View full list of projects on [my portfolio](http://13.127.155.55/aboutme)
+🧾 View full list of projects on [my portfolio](http://3.6.39.189/aboutme)
 
 ---
 
