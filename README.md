@@ -32,7 +32,7 @@ I’ve successfully delivered **10+ projects**, from food delivery platforms to 
 |--------|-------|-------------|
 | [Chat App](http://3.6.39.189/chat) | Node.js + Express + MongoDB | Chating Application
 | [NewsBlog](http://3.6.39.189/blog) | Node.js + Express + MongoDB + EJS | Dynamic tech news platform with admin panel |
-| [File Uploader](http://3.6.39.189/uploader) | Node.js + Express + MongoDB | Multi-file upload with validation and admin UI |
+| [File Uploader](https://node-express-file-uploader.onrender.com/) | Node.js + Express + MongoDB | Multi-file upload with validation and admin UI |
 | [The Aladdin](https://thealaddin.in/) | Laravel + MySQL | Food delivery platform with order tracking and admin panel |
 | [RaahGhar](https://www.raahghar.com/) | Laravel + MySQL | Homestay travel portal with recommendations |
 | [Book Technician](https://booktechnician.in/) | Laravel + MySQL | On-demand service booking platform |
