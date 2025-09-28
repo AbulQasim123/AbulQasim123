@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abul Qasim Ansari
 
-🚀 Software Developer | PHP Laravel & Node.js | API
+🚀 Full Stack Web Developer | PHP (Laravel, CodeIgniter, Livewire) & Node.js (Express) | MySQL & MongoDB | RESTful APIs & Cloud Deployment (AWS, GCP, Hostinger)
 📍 Bhiwandi, Thane, Maharashtra, India  
 📧 abulqasimansari842@gmail.com  
 🌐 [Portfolio](http://3.6.39.189/aboutme) | [GitHub](https://github.com/AbulQasim123) | [LinkedIn](https://linkedin.com/in/abulqasim-ansari-105b9722b)
@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a passionate **Software Developer** with 3 years of hands-on experience building dynamic, scalable, and secure web applications. From RESTful APIs to real-time apps, I work across **PHP (Laravel, CodeIgniter)** and **Node.js (Express) MongoDB**, with modern frontend stacks like **Tailwind CSS**, **Bootstrap**, and **EJS**.
+I'm a passionate **Full Stack Developer** with 3 years of hands-on experience building dynamic, scalable, and secure web applications. From RESTful APIs to real-time apps, I work across **PHP (Laravel, CodeIgniter)** and **Node.js (Express) MongoDB**, with modern frontend stacks like **Tailwind CSS**, **Bootstrap**, and **EJS**.
 
 I’ve successfully delivered **10+ projects**, from food delivery platforms to travel apps, always focused on clean architecture, performance, and practical solutions.
 
