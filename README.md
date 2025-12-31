@@ -76,6 +76,8 @@ I’ve successfully delivered **10+ projects**, from food delivery platforms to 
 | [Anubhav Vacations](https://www.anubhavvacations.in/) | Laravel + MySQL |  Travel portal with recommendations |
 | [BoardingPassTours](https://www.boardingpasstours.com/) | Laravel + MySQL | Tour booking applicatio |
 | [Dial Service Center](https://dialservicecentre.com/) | Laravel + MySQL | Provide digital services stack |
+| [Bechdaal](https://bechdaal.in/) | Laravel + MySQL | Digital platform for buying and selling scrap materials |
+| [Nejyra](https://nejyra.in/) | Laravel + MySQL | Technology driven company |
 
 🧾 View full list of projects on [my portfolio](http://3.6.39.189/aboutme)
 
