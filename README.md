@@ -9,9 +9,16 @@
 
 ## 🧑‍💻 About Me
 
-I'm a passionate **Full Stack Developer** with 3 years of hands-on experience building dynamic, scalable, and secure web applications. From RESTful APIs to real-time apps, I work across **PHP (Laravel, CodeIgniter) MYSQL** and **Node.js (Express) React.js MongoDB**, with modern frontend stacks like **Tailwind CSS**, **Bootstrap**, and **EJS**.
+I’m a **Full-Stack Developer (Backend-Focused)** with **3+ years of hands-on experience** building scalable, secure, and production-ready web applications.
 
-I’ve successfully delivered **10+ projects**, from food delivery platforms to travel apps, always focused on clean architecture, performance, and practical solutions.
+I specialize in **Backend Development** using **PHP (Laravel, CodeIgniter)** and **Node.js (Express)**, with strong experience in designing **RESTful APIs**, authentication systems, and clean, maintainable architectures.
+
+On the **Frontend**, I work confidently with **HTML5**, **CSS3**, **JavaScript**, **React.js**, **Bootstrap**, **Tailwind CSS**, and **EJS**, focusing on smooth API integration and responsive, functional user interfaces.
+
+I have hands-on experience with **Databases** such as **MySQL** and **MongoDB**, and I enjoy building systems that are optimized for performance and scalability.
+
+I’ve successfully delivered **10+ real-world projects**, including food delivery platforms, travel applications, and admin-heavy systems, always prioritizing clean architecture, performance, and practical solutions.
+
 
 ---
 
