@@ -76,10 +76,10 @@ I’ve successfully delivered **15+ real-world projects**, including food delive
 | [NewsBlog](http://3.6.39.189/blog) | Node.js + Express + MongoDB + EJS | Dynamic tech news platform with admin panel |
 | [QuizApp](https://quiz-app-five-pi-72.vercel.app/) | React.js (JSON Data) | Interactive quiz application with dynamic questions and score tracking |
 | [File Uploader](https://node-express-file-uploader.onrender.com/) | Node.js + Express + MongoDB | Multi-file upload with validation and admin UI |
-| [The Aladdin](https://thealaddin.in/) | Laravel + MySQL | Powerfull Admin Panel + Rest Api's | Food delivery platform with order tracking and admin panel |
+| [The Aladdin](https://thealaddin.in/) | Laravel + MySQL | Powerfull Admin Panel + Rest Api's, Food delivery platform with order tracking and admin panel |
 | [RaahGhar](https://www.raahghar.com/) | Laravel + MySQL | Powerfull Admin Panel + Rest Api's, Homestay travel portal with recommendations |
-| [Book Technician](https://booktechnician.in/) | Laravel + MySQL | Admin Panel + Rest Api's, On-demand service booking platform |
-| [Way2Cure](https://www.way2cure.com/) | Laravel + MySQL | Powerfull Admin Panel + Rest Api's | Healthcare app for doctor appointments and management |
+| [Book Technician](https://booktechnician.in/) | Laravel + MySQL | Powerfull Admin Panel + Rest Api's,  On-demand service booking platform |
+| [Way2Cure](https://www.way2cure.com/) | Laravel + MySQL | Powerfull Admin Panel + Rest Api's,  Healthcare app for doctor appointments and management |
 | [Retro Packers Movers](https://www.retropackers.com/) | Laravel + MySQL | Powerfull Admin Panel + Rest Api's, Relocation Service Platform |
 | [Anubhav Vacations](https://www.anubhavvacations.in/) | Laravel + MySQL |  Powerfull Admin Panel + Rest Api's, Travel portal with recommendations |
 | [BoardingPassTours](https://www.boardingpasstours.com/) | Laravel + MySQL | Powerfull Admin Panel + Rest Api's, Tour booking applicatio |
