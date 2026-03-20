@@ -75,6 +75,7 @@ I’ve successfully delivered **15+ real-world projects**, including food delive
 | [Chat App](http://3.6.39.189/chat) | Node.js + Express + MongoDB | Chating Application
 | [NewsBlog](http://3.6.39.189/blog) | Node.js + Express + MongoDB + EJS | Dynamic tech news platform with admin panel |
 | [QuizApp](https://quiz-app-five-pi-72.vercel.app/) | React.js (JSON Data) | Interactive quiz application with dynamic questions and score tracking |
+| [React App](https://react-app-ha2b.onrender.com/) | React App React.js (Hooks, Context API), Axios, React Router, React Query | End-to-end React project showcasing fundamental to advanced concepts, including state management, API handling, and dynamic routing in a real-world application. |
 | [File Uploader](https://node-express-file-uploader.onrender.com/) | Node.js + Express + MongoDB | Multi-file upload with validation and admin UI |
 | [The Aladdin](https://thealaddin.in/) | Laravel + MySQL | Powerfull Admin Panel + Rest Api's, Food delivery platform with order tracking and admin panel |
 | [RaahGhar](https://www.raahghar.com/) | Laravel + MySQL | Powerfull Admin Panel + Rest Api's, Homestay travel portal with recommendations |
