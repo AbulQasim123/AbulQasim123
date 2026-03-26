@@ -72,21 +72,24 @@ I’ve successfully delivered **15+ real-world projects**, including food delive
 
 | Project | Stack | Description |
 |--------|-------|-------------|
-| [Chat App](http://3.6.39.189/chat) | Node.js + Express + MongoDB | Chating Application
-| [NewsBlog](http://3.6.39.189/blog) | Node.js + Express + MongoDB + EJS | Dynamic tech news platform with admin panel |
-| [QuizApp](https://quiz-app-five-pi-72.vercel.app/) | React.js (JSON Data) | Interactive quiz application with dynamic questions and score tracking |
-| [React App](https://react-app-ha2b.onrender.com/) | React App React.js (Hooks, Context API), Axios, React Router, React Query | End-to-end React project showcasing fundamental to advanced concepts, including state management, API handling, and dynamic routing in a real-world application. |
-| [File Uploader](https://node-express-file-uploader.onrender.com/) | Node.js + Express + MongoDB | Multi-file upload with validation and admin UI |
-| [The Aladdin](https://thealaddin.in/) | Laravel + MySQL | Powerfull Admin Panel + Rest Api's, Food delivery platform with order tracking and admin panel |
-| [RaahGhar](https://www.raahghar.com/) | Laravel + MySQL | Powerfull Admin Panel + Rest Api's, Homestay travel portal with recommendations |
-| [Book Technician](https://booktechnician.in/) | Laravel + MySQL | Powerfull Admin Panel + Rest Api's,  On-demand service booking platform |
-| [Way2Cure](https://www.way2cure.com/) | Laravel + MySQL | Powerfull Admin Panel + Rest Api's,  Healthcare app for doctor appointments and management |
-| [Retro Packers Movers](https://www.retropackers.com/) | Laravel + MySQL | Powerfull Admin Panel + Rest Api's, Relocation Service Platform |
-| [Anubhav Vacations](https://www.anubhavvacations.in/) | Laravel + MySQL |  Powerfull Admin Panel + Rest Api's, Travel portal with recommendations |
-| [BoardingPassTours](https://www.boardingpasstours.com/) | Laravel + MySQL | Powerfull Admin Panel + Rest Api's, Tour booking applicatio |
-| [Dial Service Center](https://dialservicecentre.com/) | Laravel + MySQL | Powerfull Admin Panel + Rest Api's, Provide digital services stack |
-| [Bechdaal](https://bechdaal.in/) | Laravel + MySQL | Powerfull Admin Panel + Rest Api's, Digital platform for buying and selling scrap materials |
-| [Nejyra](https://nejyra.in/) | Laravel + MySQL | Powerfull Admin Panel + Rest Api's, Technology driven company |
+| [Chat App](http://3.6.39.189/chat) | Node.js + Express + MongoDB | Real-time chat application with user messaging features |
+| [NewsBlog](http://3.6.39.189/blog) | Node.js + Express + MongoDB + EJS | Dynamic tech news platform with a full-featured admin panel |
+| [QuizApp](https://quiz-app-five-pi-72.vercel.app/) | React.js (JSON Data) | Interactive quiz app with dynamic questions and score tracking |
+| [React App](https://react-app-ha2b.onrender.com/) | React.js (Hooks, Context API), Axios, React Router, React Query | End-to-end React project demonstrating state management, API integration, and dynamic routing |
+| [File Uploader](https://node-express-file-uploader.onrender.com/) | Node.js + Express + MongoDB | Multi-file upload system with validation and admin interface |
+| [The Aladdin](https://thealaddin.in/) | Laravel + MySQL | Food delivery platform with robust admin panel, REST APIs, and mobile apps |
+| [RaahGhar](https://www.raahghar.com/) | Laravel + MySQL | Homestay travel portal featuring recommendations, admin panel, and REST APIs |
+| [Book Technician](https://booktechnician.in/) | Laravel + MySQL | On-demand service booking platform with admin panel and REST APIs |
+| [Way2Cure](https://www.way2cure.com/) | Laravel + MySQL | Healthcare app for doctor appointments, management, admin panel, REST APIs, and mobile apps |
+| [Retro Packers Movers](https://www.retropackers.com/) | Laravel + MySQL | Relocation service platform with admin panel and REST APIs |
+| [Anubhav Vacations](https://www.anubhavvacations.in/) | Laravel + MySQL | Travel portal with recommendations, admin panel, and REST APIs |
+| [BoardingPassTours](https://www.boardingpasstours.com/) | Laravel + MySQL | Tour booking platform with comprehensive admin panel and REST APIs |
+| [Dial Service Center](https://dialservicecentre.com/) | Laravel + MySQL | Digital services platform with admin panel and REST APIs |
+| [Bechdaal](https://bechdaal.in/) | Laravel + MySQL | Digital marketplace for buying and selling scrap materials with admin panel, REST APIs, and mobile apps |
+| [Nejyra](https://nejyra.in/) | Laravel + MySQL | Technology-driven platform with robust admin panel, REST APIs, and mobile apps |
+| [Nabatz](https://nabatz.com/) | Laravel + MySQL | Fruit and vegetable management platform with feature-rich admin panel |
+| [Swimwell](https://swimwell.co.in/) | Laravel + MySQL | Pool construction management platform with admin panel, REST APIs, and mobile apps |
+| [Altus Airflow](https://altusairflow.com/) | Laravel + MySQL | Machinery repair platform with advanced admin panel, REST APIs, and mobile apps |
 
 
 ---
