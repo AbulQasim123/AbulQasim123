@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abul Qasim Ansari
 
-🚀 Software Web Developer | PHP (Laravel, Livewire) & Node.js (Express) | React.js | MySQL & MongoDB | RESTful APIs & Cloud Deployment (AWS, GCP, Hostinger)
+Software Web Developer | PHP (Laravel, Livewire) & Node.js (Express) | React.js | MySQL & MongoDB | RESTful APIs & Cloud Deployment (AWS, GCP, Hostinger)
 📍 Bhiwandi, Thane, Maharashtra, India  
 📧 abulqasimansari842@gmail.com  
 🐙[GitHub](https://github.com/AbulQasim123) | 💼[LinkedIn](https://linkedin.com/in/abulqasim-ansari-105b9722b)
