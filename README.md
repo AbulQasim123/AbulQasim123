@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abul Qasim Ansari
 
-🚀 Full Stack Web Developer | PHP (Laravel, CodeIgniter, Livewire) & Node.js (Express) | React.js | MySQL & MongoDB | RESTful APIs & Cloud Deployment (AWS, GCP, Hostinger)
+🚀 Software Web Developer | PHP (Laravel, Livewire) & Node.js (Express) | React.js | MySQL & MongoDB | RESTful APIs & Cloud Deployment (AWS, GCP, Hostinger)
 📍 Bhiwandi, Thane, Maharashtra, India  
 📧 abulqasimansari842@gmail.com  
 🐙[GitHub](https://github.com/AbulQasim123) | 💼[LinkedIn](https://linkedin.com/in/abulqasim-ansari-105b9722b)
@@ -9,15 +9,15 @@
 
 ## 🧑‍💻 About Me
 
-I’m a **Full-Stack Developer (Backend-Focused)** with **3.7 years of hands-on experience** building scalable, secure, and production-ready web applications.
+I’m a **Software Web Developer (Backend-Focused)** with **3.8 years of hands-on experience** building scalable, secure, and production-ready web applications.
 
-I specialize in **Backend Development** using **PHP (Laravel, CodeIgniter)** and **Node.js (Express)**, with strong experience in designing **RESTful APIs**, authentication systems, and clean, maintainable architectures.
+I specialize in **Backend Development** using **PHP (Laravel)** and **Node.js (Express)**, with strong experience in designing **RESTful APIs**, authentication systems, and clean, maintainable architectures.
 
 On the **Frontend**, I work confidently with **HTML5**, **CSS3**, **JavaScript**, **React.js**, **Bootstrap**, **Tailwind CSS**, and **EJS**, focusing on smooth API integration and responsive, functional user interfaces.
 
 I have hands-on experience with **Databases** such as **MySQL** and **MongoDB**, and I enjoy building systems that are optimized for performance and scalability.
 
-I’ve successfully delivered **15+ real-world projects**, including food delivery platforms, travel applications, and admin-heavy systems, always prioritizing clean architecture, performance, and practical solutions.
+I’ve successfully delivered **10+ real-world projects**, including food delivery platforms, travel applications, and admin-heavy systems, always prioritizing clean architecture, performance, and practical solutions.
 
 
 ---
