@@ -3,7 +3,7 @@
 Software Web Developer | PHP (Laravel, Livewire) & Node.js (Express) | React.js | MySQL & MongoDB | RESTful APIs & Cloud Deployment (AWS, GCP, Hostinger)
 📍 Bhiwandi, Thane, Maharashtra, India  
 📧 abulqasimansari842@gmail.com  
-🐙[GitHub](https://github.com/AbulQasim123) | 💼[LinkedIn](https://linkedin.com/in/abulqasim-ansari-105b9722b)
+🐙[GitHub](https://github.com/AbulQasim123) | 💼[LinkedIn](https://linkedin.com/in/abulqasim-ansari-105b9722b) | 💼[Portfolio](https://dev-qasim.netlify.app/) 
 
 ---
 
