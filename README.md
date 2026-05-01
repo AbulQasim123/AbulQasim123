@@ -9,7 +9,7 @@ Software Web Developer | PHP (Laravel, Livewire) & Node.js (Express) | React.js 
 
 ## 🧑‍💻 About Me
 
-I’m a **Software Web Developer (Backend-Focused)** with **3.8 years of hands-on experience** building scalable, secure, and production-ready web applications.
+I’m a **Software Web Developer (Backend-Focused)** with **3.10 years of hands-on experience** building scalable, secure, and production-ready web applications.
 
 I specialize in **Backend Development** using **PHP (Laravel)** and **Node.js (Express)**, with strong experience in designing **RESTful APIs**, authentication systems, and clean, maintainable architectures.
 
