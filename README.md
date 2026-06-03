@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abul Qasim Ansari
 
-Software Web Developer | PHP (Laravel, Livewire) & Node.js (Express) | React.js | MySQL & MongoDB | RESTful APIs & Cloud Deployment (AWS, GCP, Hostinger)
+Backend Developer | PHP (Laravel, Livewire) & Node.js (Express) | React.js | MySQL & MongoDB | RESTful APIs & Cloud Deployment (AWS, GCP, Hostinger)
 📍 Bhiwandi, Thane, Maharashtra, India  
 📧 abulqasimansari842@gmail.com  
 💼[LinkedIn](https://linkedin.com/in/abulqasim-ansari-105b9722b) | 💼[Portfolio](https://dev-qasim.netlify.app/) 
@@ -9,7 +9,7 @@ Software Web Developer | PHP (Laravel, Livewire) & Node.js (Express) | React.js 
 
 ## 🧑‍💻 About Me
 
-I’m a **Software Web Developer (Backend-Focused)** with **3.10 years of hands-on experience** building scalable, secure, and production-ready web applications.
+I’m a **Software Web Developer (Backend-Focused)** with **4 years of hands-on experience** building scalable, secure, and production-ready web applications.
 
 I specialize in **Backend Development** using **PHP (Laravel)** and **Node.js (Express)**, with strong experience in designing **RESTful APIs**, authentication systems, and clean, maintainable architectures.
 
