@@ -11,7 +11,7 @@ Full-Stack Web Developer | PHP (Laravel),(CodeIgniter4) & Node.js (Express) | Re
 
 I’m a **Full-Stack Web Developer (Backend-Focused)** with **4 years of hands-on experience** building scalable, secure, and production-ready web applications.
 
-I specialize in **Backend Development** using **PHP (Laravel)** and **Node.js (Express)**, with strong experience in designing **RESTful APIs**, authentication systems, and clean, maintainable architectures.
+I specialize in **Backend Development** using **PHP (Laravel)**, "CodeIgniter4" and **Node.js (Express)**, with strong experience in designing **RESTful APIs**, authentication systems, and clean, maintainable architectures.
 
 On the **Frontend**, I work confidently with **HTML5**, **CSS3**, **JavaScript**, **React.js**, **Bootstrap**, **Tailwind CSS**, and **EJS**, focusing on smooth API integration and responsive, functional user interfaces.
 
