@@ -1,15 +1,16 @@
-# 👋 Hi, I'm Abul Qasim Ansari
+# 👋 Hi, I'm AbulQasim Ansari
 
-Full-Stack Web Developer | PHP (Laravel),(CodeIgniter4) & Node.js (Express) | React.js | MySQL & MongoDB | RESTful APIs & Cloud Deployment (AWS, GCP, Hostinger)
+Full-Stack Developer with 4+ years of experience designing, developing, and deploying scalable web applications and RESTful APIs. Specializes in PHP (Laravel) and Node.js (Express.js), with strong experience in backend architecture, database design, cloud deployment, and secure authentication. Focused on building reliable, high-performance systems, optimizing application efficiency, and delivering production-ready solutions in collaboration with cross-functional teams.
+
 📍 Bhiwandi, Thane, Maharashtra, India  
-📧 abulqasimansari842@gmail.com  
+📧 abulqasimansari842@gmail.com
 💼[LinkedIn](https://linkedin.com/in/abulqasim-ansari-105b9722b) | 💼[Portfolio](https://dev-qasim.netlify.app/) 
 
 ---
 
 ## 🧑‍💻 About Me
 
-I’m a **Full-Stack Web Developer (Backend-Focused)** with **4 years of hands-on experience** building scalable, secure, and production-ready web applications.
+I’m a **Full-Stack Web Developer (Backend-Focused)** with **4+ years of hands-on experience** building scalable, secure, and production-ready web applications.
 
 I specialize in **Backend Development** using **PHP (Laravel)**, "CodeIgniter4" and **Node.js (Express)**, with strong experience in designing **RESTful APIs**, authentication systems, and clean, maintainable architectures.
 
@@ -96,8 +97,10 @@ I’ve successfully delivered **10+ real-world projects**, including food delive
 
 ## 🎓 Education & Certifications
 
-- **BCA**, Meerut University (2019 – 2022)  
+- **BCA**, Subharti University Meerut (2019 – 2022)
+- **HSC**, UP Board (2018)
 - **ADCA**, Hi-Tech Computer Institutes (2017)
+- **SSC**, UP Board (2016)
 
 ---
 
