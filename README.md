@@ -73,6 +73,7 @@ I’ve successfully delivered **10+ real-world projects**, including food delive
 
 | Project | Stack | Description |
 |--------|-------|-------------|
+| [Banking System](http://172.198.152.144) | A full-stack banking system built with Node.js, PostgreSQL (hosted on Neon), and React. |
 | [Chat App](http://3.6.39.189/chat) | Node.js + Express + MongoDB | Real-time chat application with user messaging features |
 | [NewsBlog](http://3.6.39.189/blog) | Node.js + Express + MongoDB + EJS | Dynamic tech news platform with a full-featured admin panel |
 | [QuizApp](https://quiz-app-five-pi-72.vercel.app/) | React.js (JSON Data) | Interactive quiz app with dynamic questions and score tracking |
