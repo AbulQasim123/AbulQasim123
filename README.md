@@ -4,7 +4,7 @@ Full-Stack Developer with 4+ years of experience designing, developing, and depl
 
 📍 Bhiwandi, Thane, Maharashtra, India  
 📧 abulqasimansari842@gmail.com
-💼[LinkedIn](https://linkedin.com/in/abulqasim-ansari-105b9722b) | 💼[Portfolio](https://dev-qasim.netlify.app/) 
+💼[LinkedIn](https://linkedin.com/in/abulqasim-ansari-105b9722b) | 💼[Portfolio](https://abulqasim.netlify.app) 
 
 ---
 
